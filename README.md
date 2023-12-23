@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dara Ogunseitan
+- 👋 Hi, I’m Dara
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning to use the Jovo Framework to create an app.
 - 💞️ I’m looking to collaborate on anything to gain experience.
