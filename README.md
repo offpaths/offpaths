@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning to use the React Framework to create an app.
+- 🌱 I’m currently learning to use the React Framework to create an app/extension.
 - 💞️ I’m looking to collaborate on anything to gain experience.
 - 📫 How to reach me is through my email. boxoutd@gmail.com
 
